@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For EepromToolsWithBytesBuffer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+EepromToolsWithBytesBuffer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ReadBytesAndMovePtr	KEYWORD2
+WriteBytesAndMovePtr	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
